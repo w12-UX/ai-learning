@@ -26,16 +26,16 @@ Authorization: Bearer app-*********
 
 ### 步骤一:  选择API方式
 
-![image-20260205110839006](img/01.png)
+![选择API方式](../../images/7.1/01.png)
 
 ### 步骤二: 创建API 
 
-![image-20260205111135742](img/02.png)
+![创建API](../../images/7.1/02.png)
 
 ### 步骤三: 打开postman测试
 
-![image-20260205111339371](img/03.png)
+![Postman Headers](../../images/7.1/03.png)
 
-![image-20260205111429492](img/04.png)
+![Postman Body](../../images/7.1/04.png)
 
 ### 
